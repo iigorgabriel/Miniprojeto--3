@@ -1,0 +1,5 @@
+NUM_SERVERS = 3
+NUM_ATTENDANTS = 4
+REQUEST_TYPES = ["A", "B", "C", "D"]  # Tipos de requisição
+MAX_TIMESTEPS = 100 
+REQUEST_RATE = 0.8
